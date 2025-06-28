@@ -41,8 +41,11 @@ bun start
 ---
 
 **Wallet Generated, Back up private key**
+
 Go to https://faucet.octra.network/
+
 Paste Wallet address & claim faucet
+
 Join Discord - https://discord.gg/gfAazqK9Xb
 
 ---
