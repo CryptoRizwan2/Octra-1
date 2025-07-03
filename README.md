@@ -84,7 +84,7 @@ Paste your test wallet details
 
 ### 🔹 Step 4 : Send a test transaction
 
-Replace address with any address from explorer
+Replace address with any address from explorer - https://octrascan.io/
 
 ```bash
 python cli.py send --to octECeUEKyTeFMYBumubqnskCYo292LJaDi8pR7ETJB4NYz --amount 0.01
