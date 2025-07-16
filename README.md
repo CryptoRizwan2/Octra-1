@@ -2,7 +2,6 @@
 
 # Wallet generation Guide
 
-Video Guide - https://x.com/CryptoTeluguO/status/1938817688119452025
 
 ---
 
@@ -53,8 +52,6 @@ Join Discord - https://discord.gg/gfAazqK9Xb
 ---
 
 # Quest1 - Send Tokens
-
-Video Guide - https://x.com/CryptoTeluguO/status/1940750439034802461
 
 ### Step 1
 
